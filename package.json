@@ -5,5 +5,8 @@
   "main": "index.js",
   "author": "@hoaitn",
   "repository": "https://github.com/hoai-tn/tea-xyz-quest",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@bangnn/tea-xyz-quest": "^1.0.0"
+  }
 }
